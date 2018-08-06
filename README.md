@@ -1,8 +1,9 @@
 
 <p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/2769158/43698379-d0640bae-9906-11e8-845f-b05c9a7cf68a.png">
-  <h2><a href="https://samvlu.com/tutorials.html">100 Days of Swift by Sam Lu</a></h1>
 </p>
+
+<h2 align="center"><a href="https://samvlu.com/tutorials.html">100 Days of Swift by Sam Lu</a></h2>
 
 ##### Project 1 - [Tap Counter](https://github.com/Camji55/100-Days-of-Swift/tree/master/Project%201%20-%20Tap%20Counter)
 ![](https://samvlu.com/images/ios-03-tap-or-hold.gif)
