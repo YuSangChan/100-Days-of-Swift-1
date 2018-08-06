@@ -1,6 +1,6 @@
 <br/><br/>
 <p align="center"><a href="https://samvlu.com/tutorials.html">
-  <img width="400" src="https://user-images.githubusercontent.com/2769158/43699002-0040148c-990a-11e8-8622-297c21cb3eb5.png">
+  <img width="400" src="https://user-images.githubusercontent.com/2769158/43699169-da5e1934-990a-11e8-849e-3fb5bf1e5008.png">
 </a></p>
 <br/><br/>
 
