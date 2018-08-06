@@ -4,6 +4,7 @@
 </p>
 
 <h3 align="center"><a href="https://samvlu.com/tutorials.html">100 Days of Swift</a></h3>
+<br/><br/><br/><br/><br/>
 
 ##### Project 1 - [Tap Counter](https://github.com/Camji55/100-Days-of-Swift/tree/master/Project%201%20-%20Tap%20Counter)
 ![](https://samvlu.com/images/ios-03-tap-or-hold.gif)
