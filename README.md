@@ -16,5 +16,5 @@
 ##### Project 4 - [Tip Calculator](https://github.com/Camji55/100-Days-of-Swift/tree/master/Project%204%20-%20Tip%20Calculator)
 ![](https://samvlu.com/images/ios-06-tip-calculator.gif)
 
-##### Project 4 - [Current Date and Time](https://github.com/Camji55/100-Days-of-Swift/tree/master/Project%205%20-%20DateAndTime)
+##### Project 4 - [Current Date and Time](https://github.com/Camji55/100-Days-of-Swift/tree/master/Project%205%20-%20GetDateAndTime)
 ![](https://samvlu.com/images/ios-07-get-date-time.gif)
