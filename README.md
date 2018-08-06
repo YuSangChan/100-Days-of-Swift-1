@@ -10,3 +10,6 @@
 
 ##### Project 3 - [UISlider](https://github.com/Camji55/100-Days-of-Swift/tree/master/Project%203%20-%20UISlider)
 ![](https://samvlu.com/images/ios-05-basic-ui-slider.gif)
+
+##### Project 4 - [Tip Calculator](https://github.com/Camji55/100-Days-of-Swift/tree/master/Project%204%20-%20Tip%20Calculator)
+![](https://samvlu.com/images/ios-06-tip-calculator.gif)
