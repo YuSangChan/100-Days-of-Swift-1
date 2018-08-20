@@ -21,3 +21,6 @@
 
 ##### Project 6 - [Passing Data](https://github.com/Camji55/100-Days-of-Swift/tree/master/Project%206%20-%20Passing%20Data)
 ![](https://samvlu.com/images/ios-08-passing-data.gif)
+
+##### Project 7 - [Add Photo](https://github.com/Camji55/100-Days-of-Swift/tree/master/Project%207%20-%20Add%20Photo)
+![](https://samvlu.com/images/ios-09-add-photo.gif)
