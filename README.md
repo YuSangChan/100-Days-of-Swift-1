@@ -24,3 +24,6 @@
 
 ##### Project 7 - [Add Photo](https://github.com/Camji55/100-Days-of-Swift/tree/master/Project%207%20-%20Add%20Photo)
 ![](https://samvlu.com/images/ios-09-add-photo.gif)
+
+##### Project 8 - [Grocery List](https://github.com/Camji55/100-Days-of-Swift/tree/master/Project%208%20-%20Grocery%20List)
+![](https://samvlu.com/images/ios-13-add-new.gif)
